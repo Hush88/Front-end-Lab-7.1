@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Front-end-Lab-7.1/static/css/main.5f999662.css",
+    "main.js": "/Front-end-Lab-7.1/static/js/main.28554824.js",
+    "index.html": "/Front-end-Lab-7.1/index.html",
+    "main.5f999662.css.map": "/Front-end-Lab-7.1/static/css/main.5f999662.css.map",
+    "main.28554824.js.map": "/Front-end-Lab-7.1/static/js/main.28554824.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f999662.css",
+    "static/js/main.28554824.js"
+  ]
+}
